@@ -10,6 +10,14 @@
 
 ---
 
+# ⚠️ AI Assistance Disclaimer
+
+This project was created with the help of artificial intelligence (AI). Some of the code, documentation, and ideas were generated or enhanced using AI tools. While every effort has been made to ensure the accuracy and quality of the work, the content might contain areas that could benefit from further human review and refinement.
+
+Feel free to contribute or suggest improvements, and thank you for understanding!
+
+---
+
 ## 🚀 Features
 
 - 🔍 Scans a folder for `.webp` images  
