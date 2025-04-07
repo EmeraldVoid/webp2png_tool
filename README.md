@@ -67,15 +67,16 @@ Press any key to exit...
 
 ---
 
+
 ## ❓ FAQ
 
-### Q: What is it for?  
-**A:** I made this as a way to mass convert `.webp` files into `.png` files.
+### Q: What does this tool do?  
+**A:** This script batch converts `.webp` image files into `.png` format. It’s useful if you have a folder full of `.webp` files and want to convert them all at once.
 
 ---
 
-### Q: What language was it written in?  
-**A:** Python, using:
+### Q: What programming language is it written in?  
+**A:** This tool is written in Python and uses the following libraries:
 ```python
 import os  
 import sys  
@@ -85,17 +86,5 @@ from tqdm import tqdm
 
 ---
 
-### Q: This code is terrible?  
-**A:** I apologize. I am still learning Python and I used AI to help me complete some of the missing pieces that I didn't know how to implement. I understand if AI software isn't for you. I appreciate you looking, and I hope I have made something else here on GitHub that piques your interest.
-
----
-
-## 📄 License
-
-This project is released with no specific license. You are free to use, modify, or share it as you like.
-
----
-
-## 🙏 Acknowledgments
-
-Thanks to [Pillow](https://github.com/python-pillow/Pillow) and [tqdm](https://github.com/tqdm/tqdm) for making this easy to build!
+### Q: Why does the code look so basic?  
+**A:** I'm currently learning Python, and this project was a learning exercise for me. I also used AI assistance to help with parts I didn’t fully understand yet. I appreciate constructive feedback, and I hope you find something else in my GitHub that interests you!
